@@ -1,7 +1,7 @@
-## Python with GIt and GitHub
+## 🔹 Python with GIt and GitHub
 파이썬 코드로 배우는 Git & GitHub 실습
 
-## 내용 정리
+## 📦 내용 정리
 
 Git Command
 
